@@ -2,17 +2,17 @@
 let items = {
   root: {
     label: 'Profile',
-    icon: '1'
+    icon: 'fa-solid fa-user'
   },
   children: [
     {
-    label: 'My List',
-      icon: '2'
+      label: 'My List',
+      icon: 'fa-solid fa-list-check'
     },
     {
       label: 'Statistics',
-        icon: '3'
-      }
+      icon: 'fa-solid fa-chart-pie'
+    }
   ]
 };
 
